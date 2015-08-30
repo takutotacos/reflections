@@ -1,0 +1,7 @@
+1. when creating a new repository, I could see the message roughly saying that new repository with empty content is created.
+this is necessary because you want to make sure that nothing is in the new repository so that you can create your project with no unrelated contents.
+
+2.It is the place you declares that some files need to be watched because it is higly likely that they will move to the repository.
+Repository only cares if the files in the staging area are changed.
+the working directory has so many files that some of them not necessarily go to repository.
+the staging directory tells repository what files go to it
