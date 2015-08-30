@@ -1,0 +1,11 @@
+1.if you make some changes and they didn't work, you can go back to previous one and compare the two to see what might have led to infunctionality.
+
+2.There is a chance that you forget to commit a change and go too far. Also, because you have to manually manually save changes, it will disturb your momentum for creativity.
+
+3. Because git is specifically made for programming use and in programming usually multiple files are used at one project, referring to each other.
+In contrast, normal use of files like word or excel, you often need one file for one project, or if you need several of them, still you do not refer to another file from a file. it is made separatelly.
+
+4. Git log shows you the slight image of how much it changes from the last commit. and the git diff can show you the changes made in detail with the actual lines of codes.
+
+5. It is strongly holding my back because I know that whatever problems that is triggered by something I write can be fixed by going back to the previous file you want.
+
